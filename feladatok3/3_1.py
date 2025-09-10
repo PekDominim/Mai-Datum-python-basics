@@ -1,5 +1,6 @@
 """
-A progranm sugár alapján kisámolja egy kör kerületét és területét.
+A progranm sugár alapján kisámolja egy kör kerületét és területét
+"""
 
 import math
 
