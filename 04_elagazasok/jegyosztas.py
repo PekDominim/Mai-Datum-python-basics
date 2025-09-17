@@ -19,9 +19,10 @@ elif value3 < 50:
     print("Elegtelen")
 elif value3 < 65:
     print("elgeseges")
-elif value3 < 80:
-    print("Közepes")
+elif Value3 < 80:
+   print("Közepes")
 elif value3 < 90:
     print("jo")
 elif value3 < 101:
     print("jeles")
+
